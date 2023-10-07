@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on CVEPSS</title>
+    <link>http://cvepss.ileansys.com/posts/</link>
+    <description>Recent content in Posts on CVEPSS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 16:37:32 +0900</lastBuildDate><atom:link href="http://cvepss.ileansys.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Harmony of CVE&#39;s and EPSS</title>
+      <link>http://cvepss.ileansys.com/posts/harmony/</link>
+      <pubDate>Sat, 07 Oct 2023 16:37:32 +0900</pubDate>
+      
+      <guid>http://cvepss.ileansys.com/posts/harmony/</guid>
+      <description>Cheers to better vulnerability analysis! What&amp;rsquo;s more? Finding a vulnerability or actually finding a vulnerability? It&amp;rsquo;s not easier said than done. The Exploit Prediction Scoring System (EPSS) fills the gap of having to rely on the latest and greatest Common Vulnerability Scoring System (CVSS) by using a data-driven approach in estimating the likelihood of a vulnerability being exploited. In future blog posts we will start to explore how best to leverage both CVSS scores, EPSS, and other means for more effective vulnerability and exploitability analysis.</description>
+    </item>
+    
+  </channel>
+</rss>
